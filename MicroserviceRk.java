@@ -11,5 +11,7 @@ public class MicroserviceRk
 
 		System.out.println("Merge/Rebase");
 
+		System.out.println("Rebase");
+
 	}
 }
